@@ -40,4 +40,4 @@ for row in buttons:
         b.pack(side="left", expand=True, fill="both")
         b.bind("<Button-1>", click)
 
-root.mainloop() as salman
+root.mainloop()
